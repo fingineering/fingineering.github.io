@@ -1,0 +1,118 @@
+[
+    {
+        "id": -0,
+        "name": "Is this your next data logistics platform architecture?",
+        "image": "https://miro.medium.com/max/6000/1*Oo7TRZ2t7lmwlm1KJzj5-g.jpeg",
+        "url": "https://medium.com/codex/is-this-your-next-data-logistics-platform-architecture-dffe402d1daa",
+        "items": [
+            {
+                "name": "Data Engineering",
+                "url": "#"
+            },
+            {
+                "name": "Azure",
+                "url": "#"
+            },
+            {
+                "name": "Google Cloud",
+                "url": "#"
+            }
+        ]
+    },
+    {
+        "id": -5,
+        "name": "Continuous Deployment for Azure Data Factory",
+        "image": "images/ci_adf.jpeg",
+        "url": "https://medium.com/codex/azure-data-factory-continuous-deployment-bd622e8086b3",
+        "items": [
+            {
+                "name": "Data Engineering",
+                "url": "#"
+            },
+            {
+                "name": "Azure",
+                "url": "#"
+            }
+        ]
+    },
+    {
+        "id": -4,
+        "name": "SQL Server DevOps Style — Part 1",
+        "image": "images/s1.jpg",
+        "url": "https://otrekwilke.medium.com/sql-server-devops-style-part-1-58fa492ec7a8",
+        "items": [
+            {
+                "name": "Data Engineering",
+                "url": "#"
+            },
+            {
+                "name": "SQL Server",
+                "url": "#"
+            }
+        ]
+    },
+    {
+        "id": -3,
+        "name": "5 Lessons learned from working in a remote team",
+        "image": "images/5lessons.jpeg",
+        "url": "https://otrekwilke.medium.com/5-lessons-learned-from-working-in-a-remote-team-3a7e30c0db57",
+        "items": [
+            {
+                "name": "Web design",
+                "url": "#"
+            },
+            {
+                "name": "Logotype",
+                "url": "#"
+            }
+        ]
+    },
+    {
+        "id": -2,
+        "name": "Written communication in distributed teams",
+        "image": "images/written_communication.jpeg",
+        "url": "https://otrekwilke.medium.com/written-communication-in-distributed-teams-92b3964462a3",
+        "items": [
+            {
+                "name": "Web design",
+                "url": "#"
+            },
+            {
+                "name": "Wordpress",
+                "url": "#"
+            }
+        ]
+    },
+    {
+        "id": -1,
+        "name": "How to set up a SQL Server Job via SSDT",
+        "image": "images/sql_server_jobs.png",
+        "url": "https://otrekwilke.medium.com/how-to-set-up-a-sql-server-jobs-via-ssdt-5bbffe0bacad",
+        "items": [
+            {
+                "name": "Data Engineering",
+                "url": "#"
+            },
+            {
+                "name": "SQL Server",
+                "url": "#"
+            }
+        ]
+    },
+    {
+        "id": 0,
+        "name": "Lorem studios - interior and patio design",
+        "image": "images/s1.jpg",
+        "url": "#",
+        "items": [
+            {
+                "name": "Web design",
+                "url": "#"
+            },
+            {
+                "name": "Logotype",
+                "url": "#"
+            }
+        ]
+    }
+]
