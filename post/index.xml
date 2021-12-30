@@ -6,14 +6,15 @@
     <description>Recent content in Posts on Fingineering.net - Data Engineering at it&#39;s best</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Jun 2013 12:00:00 +0000</lastBuildDate><atom:link href="https://fingineering.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://fingineering.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Vivamus Lacus Mauris</title>
-      <link>https://fingineering.github.io/post/vivamus-lacus-mauris/</link>
-      <pubDate>Mon, 17 Jun 2013 12:00:00 +0000</pubDate>
+      <title>The first webpage with Hugo</title>
+      <link>https://fingineering.github.io/post/the-first-internal-blog/</link>
+      <pubDate>Wed, 29 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fingineering.github.io/post/vivamus-lacus-mauris/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Impedit, rerum voluptates veniam. Esse, nihil, ea, eaque, quos cum id tempore voluptate nisi nemo debitis impedit officiis culpa repellat voluptatum in aperiam error quo minima ratione ex pariatur maxime eligendi dolore nesciunt molestiae enim alias atque commodi delectus perferendis. Blanditiis, iste placeat nostrum in! Eligendi, omnis, unde, quos ullam nesciunt molestias quis a saepe nisi distinctio molestiae voluptate obcaecati officiis consequuntur similique aspernatur rerum sequi placeat iure quaerat itaque libero officia recusandae ad corrupti aperiam cum beatae.</description>
+      <guid>https://fingineering.github.io/post/the-first-internal-blog/</guid>
+      <description>Creating a personal protfolio web page was on my list for 2021, after a first attempt using Google Pages - nice but very limited - and a second attempt using Wordpress - which never came out of testing and fiddling around - this is how I&amp;rsquo;ll move on. Creating a static web page using Hugo.
+Why? Well, why, obvious - a place to share with you services that I do offer and give you a place to find me.</description>
     </item>
     
   </channel>
