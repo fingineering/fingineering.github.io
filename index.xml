@@ -2,91 +2,91 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fingineering.net - Data Engineering at it&#39;s best</title>
-    <link>https://fingineering.github.io/</link>
+    <link>https://fingineering.net/</link>
     <description>Recent content on Fingineering.net - Data Engineering at it&#39;s best</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://fingineering.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://fingineering.net/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Download original template</title>
-      <link>https://fingineering.github.io/home/downloads/download1/</link>
+      <link>https://fingineering.net/home/downloads/download1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fingineering.github.io/home/downloads/download1/</guid>
+      <guid>https://fingineering.net/home/downloads/download1/</guid>
       <description>A simple, nice-looking call to action box. Boxing is about respect. getting it for yourself, and taking it away from the other guy. no, this is mount everest.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://fingineering.github.io/about/</link>
+      <link>https://fingineering.net/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fingineering.github.io/about/</guid>
+      <guid>https://fingineering.net/about/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam beatae soluta accusantium iusto nihil nesciunt unde veniam magnam repudiandae sapiente.
 Bildrechte Rechtliche Hinweise Warnhinweis zu Inhalten Die kostenlosen und frei zugänglichen Inhalte dieser Webseite wurden mit größtmöglicher Sorgfalt erstellt. Wir als Anbieter dieser Webseite übernehmen jedoch keine Gewähr für die Richtigkeit und Aktualität der bereitgestellten kostenlosen und frei zugänglichen journalistischen Ratgeber und Nachrichten.</description>
     </item>
     
     <item>
       <title>Datenschutzerklärung</title>
-      <link>https://fingineering.github.io/datenschutz/</link>
+      <link>https://fingineering.net/datenschutz/</link>
       <pubDate>Wed, 29 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fingineering.github.io/datenschutz/</guid>
+      <guid>https://fingineering.net/datenschutz/</guid>
       <description>Datenschutzerklärung Einführung Der Schutz Ihrer Privatsphäre und Ihrer persönlichen Daten ist uns wichtig. Deshalb informieren wir Sie in der nachfolgenden Datenschutzerklärung gemäß den gesetzlichen Vorgaben (insb. gemäß BDSG n.F. und der europäischen Datenschutz-Grundverordnung ‚DS-GVO‘) über die Art, den Umfang und Zweck der Verarbeitung personenbezogener Daten durch unser Unternehmen. Diese Datenschutzerklärung gilt auch für unsere Websites und Sozial-Media-Profile. Bezüglich der Definition von Begriffen wie etwa „personenbezogene Daten“ oder „Verarbeitung“ verweisen wir auf Art.</description>
     </item>
     
     <item>
       <title>Data Engineering</title>
-      <link>https://fingineering.github.io/home/services/service1/</link>
+      <link>https://fingineering.net/home/services/service1/</link>
       <pubDate>Wed, 29 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fingineering.github.io/home/services/service1/</guid>
+      <guid>https://fingineering.net/home/services/service1/</guid>
       <description>&lt;p&gt;You have data, right? Wether it is Excel sheets, databases or APIs of services you use, commonly data is spread across your working environment. To create insight from all of your data, the first step is to create a data logisitics platform.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>The first webpage with Hugo</title>
-      <link>https://fingineering.github.io/post/the-first-internal-blog/</link>
+      <link>https://fingineering.net/post/the-first-internal-blog/</link>
       <pubDate>Wed, 29 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fingineering.github.io/post/the-first-internal-blog/</guid>
+      <guid>https://fingineering.net/post/the-first-internal-blog/</guid>
       <description>Creating a personal protfolio web page was on my list for 2021, after a first attempt using Google Pages - nice but very limited - and a second attempt using Wordpress - which never came out of testing and fiddling around - this is how I&amp;rsquo;ll move on. Creating a static web page using Hugo.
 Why? Well, why, obvious - a place to share with you services that I do offer and give you a place to find me.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://fingineering.github.io/home/subheader/</link>
+      <link>https://fingineering.net/home/subheader/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fingineering.github.io/home/subheader/</guid>
+      <guid>https://fingineering.net/home/subheader/</guid>
       <description>Welcome to fingineering.net here you find solutions based on data. I&amp;rsquo;ll help you to get control over your data and generate insight and knowledge.</description>
     </item>
     
     <item>
       <title>Data Science</title>
-      <link>https://fingineering.github.io/home/services/service3/</link>
+      <link>https://fingineering.net/home/services/service3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fingineering.github.io/home/services/service3/</guid>
+      <guid>https://fingineering.net/home/services/service3/</guid>
       <description>&lt;p&gt;Now that you have your data in one place and connected your services via your data logistics plattform, leverage your data to make better decisions. Let&amp;rsquo;s see how!&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Download HUGO template</title>
-      <link>https://fingineering.github.io/home/downloads/download2/</link>
+      <link>https://fingineering.net/home/downloads/download2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fingineering.github.io/home/downloads/download2/</guid>
+      <guid>https://fingineering.net/home/downloads/download2/</guid>
       <description>Another simple, nice-looking call to action box. Boxing is about respect. getting it for yourself, and taking it away from the other guy. no, this is mount everest.</description>
     </item>
     
     <item>
       <title>Journey to the Cloud</title>
-      <link>https://fingineering.github.io/home/services/service2/</link>
+      <link>https://fingineering.net/home/services/service2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fingineering.github.io/home/services/service2/</guid>
+      <guid>https://fingineering.net/home/services/service2/</guid>
       <description>&lt;p&gt;Running a business on-premise can slow down development and create uneccessary costs. Start your journey to the cloud today and follow these three steps.&lt;/p&gt;</description>
     </item>
     

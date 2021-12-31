@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Services on Fingineering.net - Data Engineering at it&#39;s best</title>
-    <link>https://fingineering.github.io/home/services/</link>
+    <link>https://fingineering.net/home/services/</link>
     <description>Recent content in Services on Fingineering.net - Data Engineering at it&#39;s best</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://fingineering.github.io/home/services/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://fingineering.net/home/services/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Data Engineering</title>
-      <link>https://fingineering.github.io/home/services/service1/</link>
+      <link>https://fingineering.net/home/services/service1/</link>
       <pubDate>Wed, 29 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fingineering.github.io/home/services/service1/</guid>
+      <guid>https://fingineering.net/home/services/service1/</guid>
       <description>&lt;p&gt;You have data, right? Wether it is Excel sheets, databases or APIs of services you use, commonly data is spread across your working environment. To create insight from all of your data, the first step is to create a data logisitics platform.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Data Science</title>
-      <link>https://fingineering.github.io/home/services/service3/</link>
+      <link>https://fingineering.net/home/services/service3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fingineering.github.io/home/services/service3/</guid>
+      <guid>https://fingineering.net/home/services/service3/</guid>
       <description>&lt;p&gt;Now that you have your data in one place and connected your services via your data logistics plattform, leverage your data to make better decisions. Let&amp;rsquo;s see how!&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Journey to the Cloud</title>
-      <link>https://fingineering.github.io/home/services/service2/</link>
+      <link>https://fingineering.net/home/services/service2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fingineering.github.io/home/services/service2/</guid>
+      <guid>https://fingineering.net/home/services/service2/</guid>
       <description>&lt;p&gt;Running a business on-premise can slow down development and create uneccessary costs. Start your journey to the cloud today and follow these three steps.&lt;/p&gt;</description>
     </item>
     

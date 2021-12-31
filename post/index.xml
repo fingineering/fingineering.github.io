@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Fingineering.net - Data Engineering at it&#39;s best</title>
-    <link>https://fingineering.github.io/post/</link>
+    <link>https://fingineering.net/post/</link>
     <description>Recent content in Posts on Fingineering.net - Data Engineering at it&#39;s best</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://fingineering.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://fingineering.net/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The first webpage with Hugo</title>
-      <link>https://fingineering.github.io/post/the-first-internal-blog/</link>
+      <link>https://fingineering.net/post/the-first-internal-blog/</link>
       <pubDate>Wed, 29 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fingineering.github.io/post/the-first-internal-blog/</guid>
+      <guid>https://fingineering.net/post/the-first-internal-blog/</guid>
       <description>Creating a personal protfolio web page was on my list for 2021, after a first attempt using Google Pages - nice but very limited - and a second attempt using Wordpress - which never came out of testing and fiddling around - this is how I&amp;rsquo;ll move on. Creating a static web page using Hugo.
 Why? Well, why, obvious - a place to share with you services that I do offer and give you a place to find me.</description>
     </item>

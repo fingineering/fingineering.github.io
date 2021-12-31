@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Clients on Fingineering.net - Data Engineering at it&#39;s best</title>
-    <link>https://fingineering.github.io/home/clients/</link>
+    <link>https://fingineering.net/home/clients/</link>
     <description>Recent content in Clients on Fingineering.net - Data Engineering at it&#39;s best</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://fingineering.github.io/home/clients/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://fingineering.net/home/clients/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
