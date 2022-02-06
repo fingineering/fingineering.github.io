@@ -1,8 +1,28 @@
 [
     {
+        "id": 1,
+        "name": "Serverless Data Processing",
+        "image": "images/serverless_data_proc.png",
+        "url": "https://faun.pub/serverless-data-procesing-364ccfbdf479",
+        "items": [
+            {
+                "name": "Data Engineering",
+                "url": "#"
+            },
+            {
+                "name": "Serverless ",
+                "url": "#"
+            },
+            {
+                "name": "Data Logistics",
+                "url": "#"
+            }
+        ]
+    },
+    {
         "id": -0,
         "name": "Is this your next data logistics platform architecture?",
-        "image": "https://miro.medium.com/max/6000/1*Oo7TRZ2t7lmwlm1KJzj5-g.jpeg",
+        "image": "images/warehouse_small.jpg",
         "url": "https://medium.com/codex/is-this-your-next-data-logistics-platform-architecture-dffe402d1daa",
         "items": [
             {
