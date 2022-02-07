@@ -18,6 +18,7 @@
 	<script defer src="https://use.fontawesome.com/releases/v5.0.11/js/all.js" integrity="sha384-ImVoB8Er8knetgQakxuBS4G3RSkyD8IZVVQCAnmRJrDwqJFYUE4YOv+DbIofcO9C" crossorigin="anonymous"></script>
 	
 	
+	
 	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alice|Open+Sans:400,300,700">
 	
 	
@@ -46,14 +47,10 @@
 <nav class="navbar navbar-expand-lg ">
     <div class="container-fluid">
 
-        <div class="navbar-header">
-            <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="true">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
-        </div>
+        
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
 
         <div class="navbar-collapse collapse" id="bs-example-navbar-collapse-1">
 
@@ -91,8 +88,8 @@
 <main id="main">
 
 	<div class="container">
-		<div class="row topspace">
-			<div class="col-sm-8 col-sm-offset-2">
+		<div class="row topspace justify-content-center">
+			<div class="col-10 col-lg-12 col-sm-8 col-md-8 ">
 
         
 				<article class="post">
@@ -109,12 +106,60 @@
 					<div class="entry-content">
 						<p>Creating a personal protfolio web page was on my list for 2021, after a first attempt using Google Pages - nice but very limited - and a second attempt using Wordpress - which never came out of testing and fiddling around - this is how I&rsquo;ll move on. Creating a static web page using Hugo.</p>
 <h2 id="why">Why?</h2>
-<p>Well, why, obvious - a place to share with you services that I do offer and give you a place to find me. Also, there might be things for you to find, that are useful for you. Maybe soon to come.</p>
-<p>The normal approach would probably by to go to service provider like wordpress or Wix or similar. But then I&rsquo;d be dealing with some sort of database, some sort of tech I don&rsquo;t need and probably I need to bother you with a cookie consent.</p>
-<p>In case of using a static web page without any tracking I don&rsquo;t have to ask for your acceptance of cookies, just because there are none.</p>
+<p>Well, why, obvious - a place to share with you: services that I have on offer, information and tutorials that you might find useful and to give you a place to find me. More to come soon</p>
+<p>The normal approach would probably by to go to service provider like wordpress or Wix or similar. But then I&rsquo;d be dealing with some sort of database, some sort of tech I don&rsquo;t need and probably I need to bother you with a cookie consent. I like to keep things tidy and as minimal as neccessary.</p>
+<p>In case of using a static web page without any tracking I don&rsquo;t have to ask for your acceptance of cookies, just because there are none. You only might find some links to Google Fonts and Font Awesome, respective the neccessay CDNs</p>
 <h2 id="what-is-hugo-and-where-to-find">What is Hugo and where to find</h2>
+<p>Hugo is a static web side generator written in go. It is very versatile and also pretty fast. You can find more about Hugo at <a href="https://gohugo.io">gohugo.io</a>.</p>
+<p>Using hugo or any other static web site generator makes sense, when you don&rsquo;t need interactive parts on your website, when you do not have a web application included on your side and when you do not need a fully blown CMS.</p>
+<p>Hence, this is how I work with Hugo:</p>
+<ol>
+<li>Made some modifications to the Hugo Initio theme - updated dependencies, changed pictures and also some pieces in the page layout. You absolutley not have to do this, you can go with one of the many included Themes or you can get professional designer to create a hugo theme.</li>
+<li>Inserted my information and basic data in the configuration file</li>
+<li>Created the content I like to share with you in markdown format</li>
+<li>Run the <code>hugo -v</code> command to compile the markdown to html</li>
+<li>Git push the public folder to GitHub. That is where this page is hosted by 
+
+
+  
+
+
+<i class="fab  fa-fab  fa-github ">
+  
+  
+    
+    <link href="/fontawesome/css/all.min.css" rel="stylesheet">
+  
+</i> with 
+
+
+
+<i class="fas  fa-heart ">
+  
+  
+</i>.</li>
+</ol>
 <h2 id="what-to-expect-here">What to expect here?</h2>
-<p>Warum zum Geier wird das jetzt hier nicht gefunden und wie ist dieser dämliche Blog Post hier angebunden?</p>
+<p>First and foremost, information about me and my services. But also hopefully helpful articles to solve your issues with your data. You find a place to get in contact with me.</p>
+<p>I know, this page is currently more or less in shell stage, soon to come more, stay tuned and connect on 
+
+
+  
+
+
+<i class="fab  fa-fab  fa-linkedin ">
+  
+  
+</i><a href="https://www.linkedin.com/in/owilke/">linkedIn</a> or 
+
+
+  
+
+
+<i class="fab  fa-fab  fa-medium ">
+  
+  
+</i><a href="https://otrekwilke.medium.com/">Medium</a></p>
 
 					</div>
 				</article>
