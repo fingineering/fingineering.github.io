@@ -22,8 +22,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://fingineering.net/about/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam beatae soluta accusantium iusto nihil nesciunt unde veniam magnam repudiandae sapiente.
-Bildrechte Rechtliche Hinweise Warnhinweis zu Inhalten Die kostenlosen und frei zugänglichen Inhalte dieser Webseite wurden mit größtmöglicher Sorgfalt erstellt. Wir als Anbieter dieser Webseite übernehmen jedoch keine Gewähr für die Richtigkeit und Aktualität der bereitgestellten kostenlosen und frei zugänglichen journalistischen Ratgeber und Nachrichten.</description>
+      <description>Hi I&amp;rsquo;m Otrek, an engineer, software developer, and project manager, who loves to create solutions, learn new things, and is always open to a good challenge. For more than 14 years I&amp;rsquo;m always involved in some kind of software development project related to the analysis and management of data.
+ I started my career as a vehicle engineering student at TU-Berlin but realized that HPC Software development is my go-to task pretty quick.</description>
     </item>
     
     <item>
@@ -36,12 +36,22 @@ Bildrechte Rechtliche Hinweise Warnhinweis zu Inhalten Die kostenlosen und frei 
     </item>
     
     <item>
+      <title>Impressum</title>
+      <link>https://fingineering.net/impressum/</link>
+      <pubDate>Wed, 29 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fingineering.net/impressum/</guid>
+      <description>Impressum Geschäftsführer: Otrek Wilke
+Ust-IdNr.: DE340355201</description>
+    </item>
+    
+    <item>
       <title>Data Science</title>
       <link>https://fingineering.net/home/services/service3/</link>
       <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://fingineering.net/home/services/service3/</guid>
-      <description>&lt;p&gt;Now that you have your data in one place and connected your services via your data logistics plattform, leverage your data to make better decisions. Let&amp;rsquo;s see how!&lt;/p&gt;</description>
+      <description>&lt;p&gt;Now that you have your data in one place and connected your services via your data logistics platform, leverage your data to make better decisions. Let&amp;rsquo;s see how!&lt;/p&gt;</description>
     </item>
     
     <item>
