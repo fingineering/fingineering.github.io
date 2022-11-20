@@ -1,0 +1,31 @@
+@font-face {
+  font-family: 'Alice';
+  font-style: normal;
+  font-weight: 400;
+  //src: url(https://fonts.gstatic.com/s/alice/v20/OpNCnoEEmtHa6GcOrgs.ttf) format('truetype');
+  src: url(/fonts/Alice/Alice-Regular.woff2) format(woff2);
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 300;
+  font-stretch: normal;
+//  src: url(https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf) format('truetype');
+  src: url(/fonts/OpenSans/OpenSans-Light.woff2) format(woff2);
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  //src: url(https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf) format('truetype');
+  src: url(/fonts/OpenSans/OpenSans-Regular.woff2) format(woff2);
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: normal;
+  //src: url(https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf) format('truetype');
+  src: url(/fonts/OpenSans/OpenSans-BoldItalic.woff2) format(woff2);
+}
